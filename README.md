@@ -1,5 +1,6 @@
 
-![giphy](https://github.com/user-attachments/assets/6e852ec6-e4b9-404e-9abe-39b98d9c2289)
+<img src="https://github.com/user-attachments/assets/6e852ec6-e4b9-404e-9abe-39b98d9c2289" width="600" />
+
 
 <!--
 ![200](https://github.com/user-attachments/assets/c0a3d5dd-a20e-4201-9766-1defd78acf81)
