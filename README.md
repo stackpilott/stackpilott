@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![200](https://github.com/user-attachments/assets/c0a3d5dd-a20e-4201-9766-1defd78acf81)
+
 <!--
 **stackpilott/stackpilott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
