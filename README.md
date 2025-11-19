@@ -1,6 +1,9 @@
 
 
+![giphy](https://github.com/user-attachments/assets/cbbafdd4-81b3-4212-a4aa-64c2e7249372)
 
+
+<!--
 <img src="https://github.com/user-attachments/assets/6e852ec6-e4b9-404e-9abe-39b98d9c2289" width="600" />
 
 <!--
